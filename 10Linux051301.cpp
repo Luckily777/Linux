@@ -1,3 +1,4 @@
+//第十节课的操作步骤
 root       5223   0 ps - eo ruser, pid, psr, args
 [root@luckily day06]# vim 02
 [root@luckily day06]# vim 02.c
